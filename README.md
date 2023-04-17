@@ -1,4 +1,4 @@
-# SVM-for-Fraud-Detection
+# SVM-for-Fraud-Detection - README
 
 # Introduction
 Support Vector Machines (SVM) is a powerful classification algorithm used in machine learning. SVM is particularly useful when working with datasets that have a large number of features. It is commonly used in applications such as image classification, text classification, and fraud detection. Fraud detection is an important use case for SVM, as it can help identify fraudulent transactions or behavior in large datasets.
